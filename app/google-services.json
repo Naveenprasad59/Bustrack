@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187649315827",
+    "firebase_url": "https://hgvfirebaseproject.firebaseio.com",
+    "project_id": "hgvfirebaseproject",
+    "storage_bucket": "hgvfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187649315827:android:ca8ef058d28732c10ab886",
+        "android_client_info": {
+          "package_name": "com.example.hgv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187649315827-1b9lsflq1meuc0jfq9562gcnrk24joia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hgv",
+            "certificate_hash": "0fb347627bddc000041851f53938d95ad2e94f8a"
+          }
+        },
+        {
+          "client_id": "187649315827-rbs4317pklik1p65rc7rloef3pq8e0vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3UMTuKIfAkdh0wWV8GZqfzQYG_AzcvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187649315827-rbs4317pklik1p65rc7rloef3pq8e0vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
